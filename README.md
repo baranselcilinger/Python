@@ -1,0 +1,2 @@
+# Python
+Temel seviye Python
