@@ -1,2 +1,2 @@
 # Python
-Temel seviye Python Dili Örnekleri
+Temel Seviye Python Dili Örnekleri
